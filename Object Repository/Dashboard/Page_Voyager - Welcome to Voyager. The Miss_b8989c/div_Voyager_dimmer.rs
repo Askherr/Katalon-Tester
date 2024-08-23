@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Voyager_dimmer</name>
+   <tag></tag>
+   <elementGuidId>b3dc8bf8-1510-4524-9df6-bf3970ac7807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dimmer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e376c51b-f01a-48f6-bba6-5223c5828b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dimmer</value>
+      <webElementGuid>375b1d06-5b51-432b-8d9b-1b06bcdea60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;voyager&quot;]/div[@class=&quot;app-container expanded&quot;]/div[@class=&quot;row content-container&quot;]/div[@class=&quot;side-menu sidebar-inverse ps ps--active-x&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;side-menu-container&quot;]/div[@class=&quot;panel widget center bgimage&quot;]/div[@class=&quot;dimmer&quot;]</value>
+      <webElementGuid>72804428-6478-47a9-a553-8554a17e0830</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[2]/div</value>
+      <webElementGuid>8318a136-562d-41dc-9dad-bcbecccd8534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

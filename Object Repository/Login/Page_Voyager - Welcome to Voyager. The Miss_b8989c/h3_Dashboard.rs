@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>b94bad02-06a5-4851-9ad1-01005f4acb94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.my-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b3fac64f-901a-4ff1-81ad-78b37b291ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-4</value>
+      <webElementGuid>af30b268-ec8b-4914-bf69-704e53ec0091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dashboard</value>
+      <webElementGuid>a4451180-79be-46e2-bb6e-0ec3a93cc673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;voyager&quot;]/div[@class=&quot;app-container&quot;]/div[@class=&quot;row content-container&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;side-body padding-top&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid&quot;]/h3[@class=&quot;my-4&quot;]</value>
+      <webElementGuid>ea2e1eb6-1e60-4cef-ab87-3926f5f109c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::h3[1]</value>
+      <webElementGuid>1d53aa82-557a-495e-8905-7fab3aa61047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BREAD'])[1]/following::h3[1]</value>
+      <webElementGuid>63ded7f0-9448-4895-882b-92c9491652f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Karyawan'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c7271062-3c28-403c-9abd-0b63d133374b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Barang Masuk'])[1]/preceding::h3[1]</value>
+      <webElementGuid>be582edd-1519-4d9a-ad78-f6fd1f6fbd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>a82dbfcb-54a1-474a-a12e-dc9caef920ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Dashboard' or . = ' Dashboard')]</value>
+      <webElementGuid>86f6d7e8-193a-464f-b492-4aeec6ed4251</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
